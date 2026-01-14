@@ -1,8 +1,8 @@
 {
-  "version": "NEXT26-V16.1",
-  "release_date": "2026-11-15",
+  "version": "NEXT26-V16.4",
+  "release_date": "2025-12-21",
   "release_url": "https://github.com/ncaanext/ncaa-next-26",
-  "total_size": 19.3,
+  "total_size": 22.5,
   "temp_size": 1.5,
   "min_downloader_app_version": 0.25,
   "downloader_app_url": "http://textures.ncaanext.com",
